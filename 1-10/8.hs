@@ -8,7 +8,7 @@
 module Main where
 import Data.List
 
-f :: Eq x => [x] -> [x]
+f :: (Eq x) => [x] -> [x]
 f = map head . group
    
 main = do
