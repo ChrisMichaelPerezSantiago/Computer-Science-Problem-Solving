@@ -1,4 +1,4 @@
-# Solving programming problems using Haskell
+# Solving Programming Problems Using Haskell
 
 
 **Author**
