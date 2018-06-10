@@ -1,6 +1,6 @@
 {-
     Author   : Chris M.
-    Date     : 6/9/2018
+    Date     : 6/10/2018
     Problem  : Pack consecutive duplicates of list elements into sublists.
 -}
 
