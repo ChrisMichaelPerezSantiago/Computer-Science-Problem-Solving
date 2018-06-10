@@ -14,4 +14,3 @@ main = do
     print $ f [1 .. 100]
         
         
-         
