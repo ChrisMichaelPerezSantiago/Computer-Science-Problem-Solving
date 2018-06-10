@@ -1,6 +1,6 @@
 {-
     Author   : Chris M.
-    Date     : 6/9/2018
+    Date     : 6/10/2018
     Problem  : Flatten a nested list structure.
 -}
 
